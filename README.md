@@ -3,9 +3,6 @@
 ##  Project Overview
 This project predicts whether a customer will churn (stop using the audiobook service) based on their usage and purchase behavior.
 
-##  Dataset
-- Features: Minutes_listened, Price_paid_overall, Book_length, Completion %, etc.
-- Target: Churn (1 = churned, 0 = retained)
 
 ##  Steps in the Project
 1. **EDA**: Understanding data distribution & patterns
